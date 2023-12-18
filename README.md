@@ -1,4 +1,4 @@
 # Client-Supplier-Relationship-Management
 
 
-A web-based solution aimed at facilitating and enhancing client-supplier relationship management.
+The objective of this project is to facilitate and optimize the management of relations with suppliers, by improving the quality of data, the traceability of transactions, the reduction of costs and delays, and the satisfaction of internal and external customers.
